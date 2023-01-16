@@ -18,11 +18,13 @@ Here are some ideas to get you started:
 I'm iosis!   
    
 I'm very handsome (sorry...)
-   
-   
+    
+⚡ My favorite game is OMORI(that sad)
+
 And blah blah....
 
 (maybe) cooming sooooooooooon!!
+
 
 
 __TEST__
