@@ -19,7 +19,7 @@ I'm iosis!
    
 I'm very handsome (sorry...)
     
-⚡ My favorite game is OMORI(that is sad)
+⚡ My favorite game is OMORI(Spoiler ALERT!!!, I recommend palying? it)
 
 And blah blah....
 
