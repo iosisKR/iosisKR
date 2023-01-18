@@ -5,10 +5,7 @@
 
 
 test <br>
-<img src="https://github-readme-stats.vercel.app/api?username=iosisKR&show_icons=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iosisKR&layout=compact">
-
-
+![iosis's GitHub stats](https://github-readme-stats.vercel.app/api?username=iosisKR&show_icons=true&theme=transparent)
 I'm iosis!   
    
 I'm very handsome (sorry...)
