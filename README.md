@@ -4,11 +4,12 @@
 ### 공사중입니다, 다소 복잡할 수 있습니다.<br><br><br><br>
    
 ### 나에 대한 설명(예정)<br><br><br><br>
-
+I'm OOOO(특별하게).  
+(업적)
 ### 스탯표시(예정)<br><br><br><br>
-
+(커밋수같은거)
 ### 내 신상(?)(예정)<br><br><br><br>
-
+(유튭채널같은거)
 ### 개인적인거(예정)<br><br><br><br>
     
 ⚡ My favorite game is OMORI(Spoiler ALERT!!!, I recommend palying? it)
