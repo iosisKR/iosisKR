@@ -11,5 +11,5 @@ I'm OOOO(특별하게).
 ### 내 신상(?)(예정)<br><br><br><br>
 (유튭채널같은거)
 ### 개인적인거(예정)<br><br><br><br>
-    
+    취미
 ⚡ My favorite game is OMORI(Spoiler ALERT!!!, I recommend palying? it)
