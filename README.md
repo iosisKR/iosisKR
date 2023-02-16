@@ -1,15 +1,8 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=iosisKR&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Dreamy(?)%20User&descAlignY=51&descAlign=62)
-
-### 공사중입니다, 다소 복잡할 수 있습니다.<br><br><br><br>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=iosisKR&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Student%20Developer!&descAlignY=51&descAlign=62)   
+### South Korean! && a little crazy(?) User
+<br><br>
+## My Activities
+...empty   
    
-### 나에 대한 설명(예정)<br><br><br><br>
-I'm OOOO(특별하게).  
-(업적)
-### 스탯표시(예정)<br><br><br><br>
-(커밋수같은거)
-### 내 신상(?)(예정)<br><br><br><br>
-(유튭채널같은거)
-### 개인적인거(예정)<br><br><br><br>
-    취미
 ⚡ My favorite game is OMORI(Spoiler ALERT!!!, I recommend palying? it)
