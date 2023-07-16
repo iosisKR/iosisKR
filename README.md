@@ -5,4 +5,4 @@
 ## My Activities
 ...empty   
    
-⚡ My favorite game is OMORI(Spoiler ALERT!!!, I recommend palying? it)
+⚡ My favorite game is OMORI(Spoiler ALERT!!!, I recommend playing? it)
